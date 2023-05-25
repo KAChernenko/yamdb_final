@@ -13,6 +13,7 @@
 Клонировать репозиторий
 git clone https://github.com/KAChernenko/yamdb_final
 
+
 Перейти в папку:
 cd infra
 
