@@ -9,7 +9,7 @@ services:
       - ./.env
 
   web:
-    build: kachernenko/yamdb_final:latest
+    build: kachernenko/infra_web:1.0.0.0
     restart: always
     depends_on:
       - db
