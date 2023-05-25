@@ -9,7 +9,7 @@ services:
       - ./.env
 
   web:
-    build: ../api_yamdb/.
+    build: kachernenko/yamdb_final:latest
     restart: always
     depends_on:
       - db
@@ -32,3 +32,4 @@ services:
 volumes:
   static_value:
   media_value:
+  database:
