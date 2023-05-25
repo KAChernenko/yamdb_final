@@ -9,7 +9,7 @@ services:
       - ./.env
 
   web:
-    build: kachernenko/infra_web:1.0.0.0
+    build: kachernenko/infra_web:latest
     restart: always
     depends_on:
       - db
