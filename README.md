@@ -1,6 +1,9 @@
 [![.github/workflows/yamdb_workflow.yml](https://github.com/KAChernenko/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/KAChernenko/yamdb_final/actions/workflows/yamdb_workflow.yml)
 
 
+http://84.201.139.34/redoc/
+
+
 Проект Yamdb собирает отзывы (Review) пользователей на произведения (Titles).
 Работы разделены на категории: «Книги», «Фильмы», «Музыка».
 Сами произведения в Yamdb не хранятся; здесь нельзя смотреть кино или слушать музыку.
