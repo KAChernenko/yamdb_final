@@ -16,7 +16,6 @@ git clone https://github.com/KAChernenko/yamdb_final
 Перейти в папку:
 cd infra
 
-
 Развернуть контейнеры:
 docker-compose up -d --build 
 
